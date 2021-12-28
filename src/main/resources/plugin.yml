@@ -1,0 +1,6 @@
+name: Save
+version: '${project.version}'
+main: properties.save.Save
+api-version: 1.17
+commands:
+  Save:
